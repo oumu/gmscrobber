@@ -9,8 +9,8 @@
   
 //simple scrobbler for userscript
 var Scrobbler = function(){
-	var apikey = "4472aff22b680a870bfd583f99644a03",
-		secret = "cbc5528721f63b839720633d7c1258d2",
+	var apikey = "6bec7545e857d092e5f14259b2877933",
+		secret = "984404164ca962ab90307627c782aae4",
 		apiurl = "http://ws.audioscrobbler.com/2.0/",	
 		scrate = .9,
 		tokenreg = /[?&]token=(\w{32})/,
